@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   Hi, I'm Parv Nangalia , a Software Developer & Cyber Security Enthusiast.
   <br>
   <br>
-  🔬 I'm currently working on numerous things, but why don't you check out this website which i'm working on :  <span href="www,gyaandweep.com">GYAANDWEEP</span>
+  🔬 I'm currently working on numerous things, but why don't you check out this website which i'm working on :  <span href="www.gyaandweep.com">GYAANDWEEP</span>
   <br>
   💻 I love writing code and learn new breakthroughs in it
   <br>
