@@ -118,9 +118,10 @@ Here are some ideas to get you started:
 ### 👉 Frameworks
 <p align="left">
 
-&emsp;&ensp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
 &emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+&emsp;&ensp;![Django REST](https://img.shields.io/badge/Django%20REST-ff1709.svg?style=flat&logo=django&logoColor=white)
 &emsp;&ensp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
+
 </p>
 
 ### 👉 Software & Tools
