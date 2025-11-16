@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <br>
 	<div align="center">
 	  <img src="images/logo_final.png" height="60" alt="Gyaandweep Logo">
-	  <h3>Co-Founder & CTO at <a href="https://gyaandweep.com">Gyaandweep</a></h3>
+	  <h3>Co-Founder & CTO at <a href="https://gyaandweep.com/">Gyaandweep</a></h3>
 	  <p>Leading the vision, engineering, and product direction of a next-generation learning platform.</p>
 	</div>
   <br>
