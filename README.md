@@ -39,33 +39,52 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
+
+<!-- ROW 1 -->
 <p align="center">
-  <img title="C" height="25" src="images/c.svg"/>
-  <img title="C++" height="25" src="images/cpp.svg"/>
-  <img title="Python" height="25" src="images/python-original.svg"/>
-  <img title="Django" height="25" src="images/django.png"/>
-  <img title="Javascript" height="25" src="images/javascript.svg"/>
-  <img title="Problem Solving" height="25" src="images/problemSolving.png"/>
-  <img title="HTML5" height="25" src="images/html5.svg"/>
-  <img title="CSS" height="25" src="images/css.svg"/>
-  <img title="SASS" height="25" src="images/sass.svg"/>
-  <img title="React" height="25" src="images/react-original.svg"/>
-  <img title="Redux" height="25" src="images/redux.svg"/>
-  <img title="Git" height="25" src="images/git-original.svg"/>
-  <img title="PostgreSQL" height="25" src="images/postgresql.svg"/>
-  <img title="Visual Studio Code" height="25" src="images/vscode.png"/>
-  <img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"/>
-  <img title="JQuery" height="25" src="images/jquery-original.svg"/>
-  <img title="Java" height="25" src="images/java-original.svg"/>
-  <img title="JSON" height="25" src="images/json.svg"/>
-  <img title="GitHub" height="25" src="images/github.svg"/>
-  <img title="MySQL" height="25" src="images/mysql.svg"/>
-  <img title="npm" height="25" src="images/npm.svg"/>
-  <img title="PHP" height="25" src="images/php.svg"/>
-  <img title="Flask" height="25" src="images/flask.png"/>
+  <img height="30" src="images/c.svg" title="C"/>&nbsp;&nbsp;
+  <img height="30" src="images/cpp.svg" title="C++"/>&nbsp;&nbsp;
+  <img height="30" src="images/python-original.svg" title="Python"/>&nbsp;&nbsp;
+  <img height="30" src="images/java-original.svg" title="Java"/>&nbsp;&nbsp;
+  <img height="30" src="images/javascript.svg" title="JavaScript"/>&nbsp;&nbsp;
+  <img height="30" src="images/json.svg" title="JSON"/>
 </p>
+
+<!-- ROW 2 -->
+<p align="center">
+  <img height="30" src="images/django.png" title="Django"/>&nbsp;&nbsp;
+  <img height="30" src="images/flask.png" title="Flask"/>&nbsp;&nbsp;
+  <img height="30" src="images/react-original.svg" title="React"/>&nbsp;&nbsp;
+  <img height="30" src="images/redux.svg" title="Redux"/>&nbsp;&nbsp;
+  <img height="30" src="images/jquery-original.svg" title="jQuery"/>
+</p>
+
+<!-- ROW 3 -->
+<p align="center">
+  <img height="30" src="images/html5.svg" title="HTML5"/>&nbsp;&nbsp;
+  <img height="30" src="images/css.svg" title="CSS3"/>&nbsp;&nbsp;
+  <img height="30" src="images/sass.svg" title="SASS"/>&nbsp;&nbsp;
+  <img height="30" src="images/problemSolving.png" title="Problem Solving"/>
+</p>
+
+<!-- ROW 4 -->
+<p align="center">
+  <img height="30" src="images/git-original.svg" title="Git"/>&nbsp;&nbsp;
+  <img height="30" src="images/github.svg" title="GitHub"/>&nbsp;&nbsp;
+  <img height="30" src="images/npm.svg" title="npm"/>&nbsp;&nbsp;
+  <img height="30" src="images/vscode.png" title="VS Code"/>&nbsp;&nbsp;
+  <img height="30" src="images/visualstudio.png" title="Visual Studio"/>
+</p>
+
+<!-- ROW 5 -->
+<p align="center">
+  <img height="30" src="images/mysql.svg" title="MySQL"/>&nbsp;&nbsp;
+  <img height="30" src="images/postgresql.svg" title="PostgreSQL"/>&nbsp;&nbsp;
+  <img height="30" src="images/php.svg" title="PHP"/>
+</p>
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
