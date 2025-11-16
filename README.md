@@ -30,8 +30,7 @@ Here are some ideas to get you started:
   <br>
   <br>
 	  <p align="left">
-	  <img src="images/logo_final.png" alt="Gyaandweep Logo" height="40" style="vertical-align:middle; margin-right:10px;">
-	  <strong>Co-Founder & CTO at <a href="https://gyaandweep.com">Gyaandweep</a></strong> — leading the product vision, architecture, and engineering behind a modern, scalable education platform.
+	  <strong>Co-Founder & CTO at <a href="https://gyaandweep.com"><img src="images/logo_final.png" alt="Gyaandweep Logo" height="40" style="vertical-align:middle; margin-right:10px;">Gyaandweep</a></strong> — leading the product vision, architecture, and engineering behind a modern, scalable education platform.
 	</p>
   <br>
   💻 I love writing code and learn new breakthroughs in it
