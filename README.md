@@ -29,9 +29,16 @@ Here are some ideas to get you started:
   Hi, I'm Parv Nangalia , a Software Developer & Cyber Security Enthusiast.
   <br>
   <br>
-	  <p align="left">
-	  <strong>Co-Founder & CTO at <a href="https://gyaandweep.com/"><img src="images/logo_final.png" alt="Gyaandweep Logo" height="40" style="vertical-align:bottom; margin-right:10px; margin-left:10px">Gyaandweep</a></strong> — leading the product vision, architecture, and engineering behind a modern, scalable education platform.
-	</p>
+	<div align="left">
+	  <img src="images/logo_final.png" alt="Gyaandweep Logo" height="45" style="vertical-align:middle; margin-right:12px;">
+	  <span style="font-size:22px; font-weight:600;">
+	    Co-Founder & CTO at <a href="https://gyaandweep.com">Gyaandweep</a>
+	  </span>
+	  <br>
+	  <span style="font-size:14px;">
+	    Leading product vision, architecture, and engineering behind a modern, scalable education platform.
+	  </span>
+	</div>
   <br>
   💻 I love writing code and learn new breakthroughs in it
   <br>
