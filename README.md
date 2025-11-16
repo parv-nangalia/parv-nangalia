@@ -29,7 +29,10 @@ Here are some ideas to get you started:
   Hi, I'm Parv Nangalia , a Software Developer & Cyber Security Enthusiast.
   <br>
   <br>
-  🔬 I'm currently working on numerous things, but why don't you check out this website which i'm working on :  <a href="https://www.gyaandweep.com" target="_blank">...gyaandweep...</a>
+	  <p align="left">
+	  <img src="images/logo_final.png" alt="Gyaandweep Logo" height="40" style="vertical-align:middle; margin-right:10px;">
+	  <strong>Co-Founder & CTO at <a href="https://gyaandweep.com">Gyaandweep</a></strong> — leading the product vision, architecture, and engineering behind a modern, scalable education platform.
+	</p>
   <br>
   💻 I love writing code and learn new breakthroughs in it
   <br>
@@ -41,57 +44,38 @@ Here are some ideas to get you started:
 <hr>
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
-## 🛠️ My Skills
+🛠️ My Skills
 
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-  &emsp;
+ &emsp;
+  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+ &emsp;
+  <a href="#"><img alt="Java 8" src="https://img.shields.io/badge/Java%208-%23007396.svg?style=flat&logo=java&logoColor=white"></a>
+ &emsp;
+  <a href="https://www.python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+ &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+ &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+ &emsp;
+
 </p>
 
 ### 👉 Frontend Development
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white"></a>   
+  &emsp;  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a> 
   &emsp;
-  
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
+  <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/></a>
   &emsp;
-
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+  <a href="https://react.dev/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"/></a>
   &emsp;
-  
-  <a href="https://react.dev/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"/>
-  </a>
-  &emsp;
-
-  <a href="https://redux.js.org/" target="_blank">
-    <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white"/>
-  </a>
+  <a href="https://redux.js.org/" target="_blank"><img alt="Redux" src="https://img.shields.io/badge/Redux-593D88.svg?logo=redux&logoColor=white"/></a>
   &emsp;
 </p>
 
@@ -128,14 +112,12 @@ Here are some ideas to get you started:
 
 <p>
   &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
    &emsp;
 	<a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-&emsp;
+  &emsp;
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flate&logo=markdown&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
