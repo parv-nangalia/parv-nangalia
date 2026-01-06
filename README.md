@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Parv Nangalia , a Software Developer & Cyber Security Enthusiast.
+  Hi, I'm Parv Nangalia , a Software Developer & Infra Architect.
   <br>
   <br>
 	<div align="center">
