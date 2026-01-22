@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <br>
   📚 I’m currently learning about Django Rest Framework and GraphQL.
   <br>
-  📫 How to reach me: <a href="mailto: nangaliaparv@gmail.com">nangaliaparv@gmail.com</a>
+  📫 How to reach me: <a href="mailto: parvvwork@gmail.com">nangaliaparv@gmail.com</a>
 </p>
 
 <hr>
