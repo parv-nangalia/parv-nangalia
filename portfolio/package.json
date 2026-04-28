@@ -1,0 +1,14 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "pnpm --filter @workspace/portfolio-3d run dev",
+    "build": "pnpm --filter @workspace/portfolio-3d run build",
+    "preview": "pnpm --filter @workspace/portfolio-3d run preview"
+  },
+  "private": true,
+  "devDependencies": {
+    "typescript": "~5.9.2"
+  }
+}
