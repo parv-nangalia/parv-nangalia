@@ -58,12 +58,12 @@ jobs:
           cd portfolio
           pnpm run build
         env:
-          BASE_PATH: /parv-nangalia/portfolio/artifacts/portfolio-3d
+          BASE_PATH: parv-nangalia/portfolio/artifacts/portfolio-3d
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: /parv-nangalia/portfolio/artifacts/portfolio-3d
+          path: portfolio/artifacts/portfolio-3d
 
   deploy:
     environment:
