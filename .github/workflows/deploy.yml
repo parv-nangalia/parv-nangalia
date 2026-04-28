@@ -58,7 +58,7 @@ jobs:
           cd portfolio
           pnpm run build
         env:
-          BASE_PATH: /
+          BASE_PATH: /parv-nangalia/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
